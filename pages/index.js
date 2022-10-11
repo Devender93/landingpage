@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import Image from 'next/image'
+
 import Footer from '../component/Footer'
 import Header from '../component/Header'
 
@@ -49,7 +49,7 @@ export default function Home() {
 				<div className="row">
 					<div className="col-sm-6 col-md-3 col-xs-12 col-lg-3">
 						<div className="section-image">
-							<Image  src="images/section-img0.jpg"/>
+							<Image  src="images/section-img0.jpg" />
 						</div>
 						<div className="section-content">
 							<h5>Turkey</h5>
