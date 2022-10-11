@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import imgfrom 'next/image'
 function Header() {
   return (
     <>
@@ -29,7 +29,7 @@ function Header() {
 		<div className="logo">
 			<a href="#">
 				<figure>
-					<Image src="images/logo.png"/>
+					<imgsrc="images/logo.png"/>
 				</figure>
 			</a>
 		</div>

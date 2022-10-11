@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import imgfrom 'next/image'
 function Footer() {
   return (
     <>
@@ -9,7 +9,7 @@ function Footer() {
                 <div className="logo1">
                     <a href="#">
                         <figure>
-                            <Image  src="images/logo.png"/>
+                            <img src="images/logo.png"/>
                         </figure>
                     </a>
                 </div>

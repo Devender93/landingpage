@@ -1,3 +1,4 @@
+import imgfrom "next/image"
 function Nav() {
   return (
     <>
@@ -20,7 +21,7 @@ function Nav() {
 		<div className="logo">
 			<a href="#">
 				<figure>
-					<img src="images/logo.png"/>
+					<imgsrc="images/logo.png"/>
 				</figure>
 			</a>
 		</div>
