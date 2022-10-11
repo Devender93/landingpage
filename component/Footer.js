@@ -8,7 +8,7 @@ function Footer() {
                 <div className="logo1">
                     <a href="#">
                         <figure>
-                            <img src="images/logo.png"/>
+                            <Image  src="images/logo.png"/>
                         </figure>
                     </a>
                 </div>

@@ -10,9 +10,6 @@ export default function Home() {
     <>
 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
 	<Header/>
-
-
-
 <section>
 	<div className="container-fluid">
 		<div className="row">
@@ -52,7 +49,7 @@ export default function Home() {
 				<div className="row">
 					<div className="col-sm-6 col-md-3 col-xs-12 col-lg-3">
 						<div className="section-image">
-							<img src="images/section-img0.jpg"/>
+							<Image  src="images/section-img0.jpg"/>
 						</div>
 						<div className="section-content">
 							<h5>Turkey</h5>
@@ -61,7 +58,7 @@ export default function Home() {
 					</div>
 					<div className="col-sm-6 col-md-3 col-xs-12 col-lg-3">
 						<div className="section-image">
-							<img src="images/section-img1.jpg"/>
+							<Image  src="images/section-img1.jpg"/>
 						</div>
 						<div className="section-content">
 							<h5>Spain</h5>
@@ -70,7 +67,7 @@ export default function Home() {
 					</div>
 					<div className="col-sm-6 col-md-3 col-xs-12 col-lg-3">
 						<div className="section-image">
-							<img src="images/section-img2.jpg"/>
+							<Image  src="images/section-img2.jpg"/>
 						</div>
 						<div className="section-content">
 							<h5>United Kingdom</h5>
@@ -79,7 +76,7 @@ export default function Home() {
 					</div>
 					<div className="col-sm-6 col-md-3 col-xs-12 col-lg-3">
 						<div className="section-image">
-							<img src="images/section-img3.jpg"/>
+							<Image  src="images/section-img3.jpg"/>
 						</div>
 						<div className="section-content">
 							<h5>Eastern Europe</h5>
@@ -204,7 +201,7 @@ export default function Home() {
 			<div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 				<div className="section-wrap1">
 					<div className="section-image1">
-						<img src="images/section-icon1.png"/>
+						<Image  src="images/section-icon1.png"/>
 					</div>
 					<div className="sec-review">
 						<span>623,744</span>
@@ -217,7 +214,7 @@ export default function Home() {
 			<div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 				<div className="section-wrap1">
 					<div className="section-image1">
-						<img src="images/section-icon2.png"/>
+						<Image  src="images/section-icon2.png"/>
 					</div>
 					<div className="sec-review">
 						<span>112</span>
@@ -230,7 +227,7 @@ export default function Home() {
 			<div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 				<div className="section-wrap1">
 					<div className="section-image1">
-						<img src="images/section-icon3.png"/>
+						<Image  src="images/section-icon3.png"/>
 					</div>
 					<div className="sec-review">
 						<span>594</span>
@@ -243,7 +240,7 @@ export default function Home() {
 			<div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 				<div className="section-wrap1">
 					<div className="section-image1">
-						<img src="images/section-icon4.png"/>
+						<Image  src="images/section-icon4.png"/>
 					</div>
 					<div className="sec-review">
 						<span>8,711</span>

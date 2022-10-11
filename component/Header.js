@@ -28,7 +28,7 @@ function Header() {
 		<div className="logo">
 			<a href="#">
 				<figure>
-					<img src="images/logo.png"/>
+					<Image src="images/logo.png"/>
 				</figure>
 			</a>
 		</div>
@@ -39,10 +39,7 @@ function Header() {
         </button>
 		<div className="menu">
 			<ul className="menu-list navbar-toggle" id="myNavbar">
-				<li><a href="#">HOME</a></li>
-				<li><a href="#">ABOUT</a></li>
-				<li><a href="#">BLOG</a></li>
-				<li><a href="#">CONTACT</a></li>
+				
 			</ul>
 		</div>
 	</div>
