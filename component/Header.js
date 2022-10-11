@@ -1,4 +1,4 @@
-import imgfrom 'next/image'
+
 function Header() {
   return (
     <>
@@ -29,7 +29,7 @@ function Header() {
 		<div className="logo">
 			<a href="#">
 				<figure>
-					<imgsrc="images/logo.png"/>
+					<img src="images/logo.png"/>
 				</figure>
 			</a>
 		</div>

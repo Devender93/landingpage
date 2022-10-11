@@ -1,4 +1,4 @@
-import imgfrom "next/image"
+
 function Nav() {
   return (
     <>

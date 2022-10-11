@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import imgfrom 'next/image'
+
 import styles from '../styles/Home.module.css'
 import Footer from '../component/Footer'
 import Header from '../component/Header'
